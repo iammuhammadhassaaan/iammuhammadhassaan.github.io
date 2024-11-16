@@ -5,6 +5,7 @@ author: "Muhammad Hassaan"
 baseurl: "" # Leave blank for GitHub Pages
 url: "https://iammuhammadhassaan.github.io" # Replace <your-username> with your GitHub username
 github_username: "iammuhammadhassaan"
+show_description: true
 
 # Theme
 theme: jekyll-theme-minimal # You can change this to any supported GitHub Pages theme
